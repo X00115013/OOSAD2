@@ -6,7 +6,7 @@ public class Driver {
 	 * 
 	 * @param args
 	 */
-	public void main(string[] args) {
+	public static void main(string[] args) {
 		// TODO - implement Driver.main
 		throw new UnsupportedOperationException();
 	}

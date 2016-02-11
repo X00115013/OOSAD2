@@ -1,4 +1,5 @@
-public class Cart {
+
+ public class Cart {
 
 	private CartItem CartItems;
 
@@ -6,5 +7,5 @@ public class Cart {
 		// TODO - implement Cart.Cart
 		throw new UnsupportedOperationException();
 	}
+  }
 
-}
