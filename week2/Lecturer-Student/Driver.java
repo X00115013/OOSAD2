@@ -1,12 +1,12 @@
 public class Driver {
 
-	private Cart testCart;
+	private Modules module;
 
 	/**
 	 * 
 	 * @param args
 	 */
-	public static void main(string[] args) {
+	public void main(String[] args) {
 		// TODO - implement Driver.main
 		throw new UnsupportedOperationException();
 	}
