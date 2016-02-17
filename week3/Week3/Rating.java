@@ -2,14 +2,14 @@ package Week3;
 
 public class Rating extends Qualification {
 
-	protected String rating;
+	protected String ratingName;
 
-	public void getRating() {
+	public void getName() {
 		// TODO - implement Rating.getRating
 		throw new UnsupportedOperationException();
 	}
 
-	public void setRating() {
+	public void setName() {
 		// TODO - implement Rating.setRating
 		throw new UnsupportedOperationException();
 	}

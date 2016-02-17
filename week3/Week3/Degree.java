@@ -2,14 +2,14 @@ package Week3;
 
 public class Degree extends Qualification {
 
-	protected String level;
+	protected String degreeName;
 
-	public void setLevel() {
+	public void setName() {
 		// TODO - implement Degree.setLevel
 		throw new UnsupportedOperationException();
 	}
 
-	public void getLevel() {
+	public void getName() {
 		// TODO - implement Degree.getLevel
 		throw new UnsupportedOperationException();
 	}

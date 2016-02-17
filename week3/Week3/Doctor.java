@@ -1,17 +1,15 @@
 package Week3;
 
 public class Doctor extends Professional {
+	protected String doctorName;
 
-	private Professional professional;
-	protected String doctorType;
-
-	public void getDoctorType() {
-		// TODO - implement Doctor.getDoctorType
+	public void getName() {
+		// TODO - implement Doctor.getName
 		throw new UnsupportedOperationException();
 	}
 
-	public void setDoctorType() {
-		// TODO - implement Doctor.setDoctorType
+	public void setName() {
+		// TODO - implement Doctor.setName
 		throw new UnsupportedOperationException();
 	}
 

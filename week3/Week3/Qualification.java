@@ -2,7 +2,7 @@ package Week3;
 
 public class Qualification {
 
-	protected String qualification;
+	protected String qualificationName;
 
 	public void getQualification() {
 		// TODO - implement Qualification.getQualification

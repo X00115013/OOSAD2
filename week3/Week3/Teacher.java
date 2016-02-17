@@ -1,17 +1,15 @@
 package Week3;
 
 public class Teacher extends Professional {
+	protected String teacherName;
 
-	private Professional professional;
-	protected String teacherType;
-
-	public void getTeacherType() {
-		// TODO - implement Teacher.getTeacherType
+	public void getName() {
+		// TODO - implement Teacher.getName
 		throw new UnsupportedOperationException();
 	}
 
-	public void setTeacherType() {
-		// TODO - implement Teacher.setTeacherType
+	public void setName() {
+		// TODO - implement Teacher.setName
 		throw new UnsupportedOperationException();
 	}
 

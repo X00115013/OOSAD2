@@ -2,14 +2,14 @@ package Week3;
 
 public class Specialisation extends Qualification {
 
-	protected String specialization;
+	protected String specializationName;
 
-	public void getSpecialisation() {
+	public void getName() {
 		// TODO - implement Specialisation.getSpecialisation
 		throw new UnsupportedOperationException();
 	}
 
-	public void setSpeciaisation() {
+	public void setName() {
 		// TODO - implement Specialisation.setSpeciaisation
 		throw new UnsupportedOperationException();
 	}

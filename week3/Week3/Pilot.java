@@ -1,17 +1,15 @@
 package Week3;
 
 public class Pilot extends Professional {
+	protected String pilotName;
 
-	private Professional professional;
-	protected String pilotType;
-
-	public void getPilotType() {
-		// TODO - implement Pilot.getPilotType
+	public void getName() {
+		// TODO - implement Pilot.getName
 		throw new UnsupportedOperationException();
 	}
 
-	public void setPilotType() {
-		// TODO - implement Pilot.setPilotType
+	public void setName() {
+		// TODO - implement Pilot.setName
 		throw new UnsupportedOperationException();
 	}
 
