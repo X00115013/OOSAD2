@@ -12,4 +12,14 @@ public class Professional {
 		throw new UnsupportedOperationException();
 	}
 
+	public void getDOB() {
+		// TODO - implement Professional.getDOB
+		throw new UnsupportedOperationException();
+	}
+
+	public void setDOB() {
+		// TODO - implement Professional.setDOB
+		throw new UnsupportedOperationException();
+	}
+
 }
